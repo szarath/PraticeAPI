@@ -14,7 +14,6 @@ C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\PraticeAPI.deps.json
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\PraticeAPI.runtimeconfig.json
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\PraticeAPI.dll
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\PraticeAPI.pdb
-C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Repos\PraticeAPI\PraticeAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Repos\PraticeAPI\PraticeAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
@@ -33,3 +32,4 @@ C:\Repos\PraticeAPI\PraticeAPI\obj\Debug\net9.0\ref\PraticeAPI.dll
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Repos\PraticeAPI\PraticeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repos\PraticeAPI\PraticeAPI\obj\Debug\net9.0\PraticeAPI.sourcelink.json
